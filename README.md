@@ -1,7 +1,7 @@
 # Trees-and-Graph
 
-## Generic Trees
+### Generic Tree
 
-## Binary Trees
+### Binary Tree
 
-## Binary
+### Binary Search Tree
