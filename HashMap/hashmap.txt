@@ -1,0 +1,24 @@
+HashMaps
+-> It allows to store the null keys as well, but there should be only one null key object and there can 
+be any number of null values.This class makes no guarantees as to the order of the map.
+
+//HashMaps is used solve the problem in O(1) Constant time.
+Example:- Population map
+//It is used to update,insert the data.
+//You cannot control where they would get inserted ->out of order
+
+//It takes two parameters namely as follows:
+1.The type of keys maintained by this map
+2.The type of mapped values
+
+
+Syntax:
+HashMap<K, V> hm = new HashMap<K, V>();
+
+//The methods are:-
+1.get() -> to get the value
+2.put() -> insert the value
+3.ContainsKey() -> returns the true /false 
+
+
+
